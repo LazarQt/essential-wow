@@ -37,3 +37,8 @@ create.lua
 
 todo: automatic img downloader https://www.wowdb.com/spells/class-abilities/shaman
 todo: automatic spell priority generator
+
+/console UnitNameGuildTitle 0
+/console UnitNamePlayerGuild 0
+/console UnitNamePlayerPVPTitle 0
+
