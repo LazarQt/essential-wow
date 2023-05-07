@@ -34,3 +34,6 @@ create.lua
     end
 
 ![alt text](ICONS/ABILITY_DRUID_DEMORALIZINGROAR.png)
+
+todo: automatic img downloader https://www.wowdb.com/spells/class-abilities/shaman
+todo: automatic spell priority generator
