@@ -1,0 +1,7 @@
+## Interface: 100100
+## Title: NiceDamage
+## DefaultState: Enabled
+## Author: Montyburns
+## Version: 100100
+## Notes: Changes your damage font to something more festive :D
+NiceDamage.lua 
