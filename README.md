@@ -32,6 +32,15 @@ create.lua
 	self.l:SetPoint('RIGHT',self.parent.bg,'LEFT',25,0)
 	self.r:SetPoint('LEFT',self.parent.bg,'RIGHT',-25,0)
     end
+    
+castbar.lua
+
+    if f.elements.SpellName then
+		words = {}
+		for word in f.cast_state.name:gmatch("%w+") do name = word end
+        f.SpellName:SetText(name)
+    end
+
 
 ![alt text](ICONS/ABILITY_DRUID_DEMORALIZINGROAR.png)
 
