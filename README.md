@@ -48,6 +48,10 @@ todo: automatic img downloader https://www.wowdb.com/spells/class-abilities/sham
 todo: automatic spell priority generator
 
 /console UnitNameGuildTitle 0
+
 /console UnitNamePlayerGuild 0
+
 /console UnitNamePlayerPVPTitle 0
+
+/console cameraDistanceMaxZoomFactor 2.6
 
