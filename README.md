@@ -32,5 +32,26 @@ create.lua
 	self.l:SetPoint('RIGHT',self.parent.bg,'LEFT',25,0)
 	self.r:SetPoint('LEFT',self.parent.bg,'RIGHT',-25,0)
     end
+    
+castbar.lua
+
+    if f.elements.SpellName then
+		words = {}
+		for word in f.cast_state.name:gmatch("%w+") do name = word end
+        f.SpellName:SetText(name)
+    end
+
 
 ![alt text](ICONS/ABILITY_DRUID_DEMORALIZINGROAR.png)
+
+todo: automatic img downloader https://www.wowdb.com/spells/class-abilities/shaman
+todo: automatic spell priority generator
+
+/console UnitNameGuildTitle 0
+
+/console UnitNamePlayerGuild 0
+
+/console UnitNamePlayerPVPTitle 0
+
+/console cameraDistanceMaxZoomFactor 2.6
+
