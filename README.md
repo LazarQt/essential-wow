@@ -55,3 +55,5 @@ todo: automatic spell priority generator
 
 /console cameraDistanceMaxZoomFactor 2.6
 
+/run SetCVar("showQuestTrackingTooltips", 0)
+^  not sure if this one works
