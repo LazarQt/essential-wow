@@ -1,0 +1,140 @@
+{
+  "guides": [
+    {
+      "dungeon": "VP-1",
+      "blocks": [
+        {
+          "name": "Trash #1",
+          "position": "616,76",
+          "effects": [
+            "410870,kick",
+            "410760,kick",
+            "410873,babysit",
+            "411002,def"
+          ]
+        },
+        {
+          "name": "Ertan",
+          "position": "602,317",
+          "effects": [
+            "86331,kick",
+            "86309,def",
+            "11111111,XXXXXXXXX",
+            "11111111,XXXXXXXXX",
+            "11111111,XXXXXXXXX",
+            "11111111,XXXXXXXXX",
+            "11111111,XXXXXXXXX"
+          ]
+        },
+        {
+          "name": "Trash #2",
+          "position": "1058,409",
+          "effects": [
+            "88170,kick",
+            "411743,purge",
+            "88186,kick",
+            "npc:45922,spread"
+          ]
+        },
+        {
+          "name": "Trash #3",
+          "position": "269,529",
+          "effects": [
+            "87762,kick",
+            "87779,kick",
+            "87780,purge",
+            "87762,los",
+            "npc:45935,focus"
+          ]
+        },
+        {
+          "name": "Endboss",
+          "position": "300,50",
+          "effects": [
+            "87622,spread",
+            "413263,focus"
+          ]
+        }
+      ]
+    },
+    {
+      "dungeon": "BH-1",
+      "blocks": [
+        {
+          "name": "Trash #1",
+          "position": "270,100",
+          "effects": [
+            "npc:185534,focus",
+            "382435,focus",
+            "npc:186191,focus",
+            "367500,kick"
+          ]
+        },
+        {
+          "name": "Three guys",
+          "position": "370,330",
+          "effects": [
+            "377950,kick",
+            "378155,kick",
+            "381470,focus"
+          ]
+        },
+        {
+          "name": "Trash #2",
+          "position": "550,88",
+          "effects": [
+            "385029,kick",
+            "npc:186208,focus",
+            "384899,dodge"
+          ]
+        },
+        {
+          "name": "Trash #3",
+          "position": "500,500",
+          "effects": [
+            "373804,kick",
+            "npc:186229,focus"
+          ]
+        },
+        {
+          "name": "Trash #4",
+          "position": "830,160",
+          "effects": [
+            "382474,kick",
+            "382787,babysit",
+            "npc:186226,focus",
+            "374544,kick",
+            "375065,focus"
+          ]
+        }
+      ]
+    },
+    {
+      "dungeon": "FH-1",
+      "blocks": [
+        {
+          "name": "Trash #1",
+          "position": "11111,222222",
+          "effects": [
+            "11111,XXXX",
+            "22222,YYYYYY"
+          ]
+        }
+      ]
+    },
+    {
+      "dungeon": "SAMPLE",
+      "blocks": [
+        {
+          "name": "Trash #1",
+          "position": "11111,222222",
+          "effects": [
+            "257397,kick",
+            "22222,YYYYYY"
+          ]
+        }
+      ]
+    }
+  ]
+}
+
