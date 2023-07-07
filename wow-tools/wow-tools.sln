@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33626.354
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "wow-tools", "wow-tools.csproj", "{32C4C9DE-A800-4DA6-8213-34D52C7E5921}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32C4C9DE-A800-4DA6-8213-34D52C7E5921}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32C4C9DE-A800-4DA6-8213-34D52C7E5921}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32C4C9DE-A800-4DA6-8213-34D52C7E5921}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32C4C9DE-A800-4DA6-8213-34D52C7E5921}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {07E7EDA7-E91E-433F-B945-0E8772AC05F4}
+	EndGlobalSection
+EndGlobal
